@@ -1,1 +1,2 @@
 newfile
+something make new in myfit
